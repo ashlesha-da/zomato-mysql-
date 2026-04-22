@@ -7,4 +7,4 @@ Features:
 Database creation and table design
 Data cleaning and structuring
 Complex SQL queries for analysis
-Insights generation from raw data
+Insights generation from raw data.
